@@ -1,0 +1,3 @@
+module.exports=[90075,a=>{"use strict";a.s(["C",0,function(a){let b=new Date(a);return Number.isNaN(b.getTime())?"Date unavailable":new Intl.DateTimeFormat("en",{month:"long",day:"numeric",year:"numeric"}).format(b)},"i",0,function(a){return null===a||0===a?"Free":new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:2}).format(a)}])}];
+
+//# sourceMappingURL=src_lib_format_ts_1vrlyumfmy_4d._.js.map

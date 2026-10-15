@@ -1,0 +1,43 @@
+{
+  "app": {
+    "[project]/src/app/_not-found/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2",
+      "static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2"
+    ],
+    "[project]/src/app/admin/courses/[id]/edit/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2",
+      "static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2"
+    ],
+    "[project]/src/app/admin/courses/new/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2",
+      "static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2"
+    ],
+    "[project]/src/app/admin/courses/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2",
+      "static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2"
+    ],
+    "[project]/src/app/courses/[id]/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2",
+      "static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2"
+    ],
+    "[project]/src/app/login/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2",
+      "static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2"
+    ],
+    "[project]/src/app/my-enrollments/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2",
+      "static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2"
+    ],
+    "[project]/src/app/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2",
+      "static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2"
+    ],
+    "[project]/src/app/register/page": [
+      "static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2",
+      "static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

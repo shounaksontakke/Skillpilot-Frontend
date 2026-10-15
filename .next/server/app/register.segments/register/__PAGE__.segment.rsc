@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1kikialw6edkt.js"
+3:I[72299,["$2"],"AuthProvider"]
+4:I[3020,["$2"],"SiteHeader"]
+5:I[39756,["$2"],"default"]
+6:I[37457,["$2"],"default"]
+d:"/_next/static/chunks/0vwv_1j0z6kgd.js"
+e:I[22016,["$2","$d"],""]
+f:I[89128,["$2","$d"],"AuthForm"]
+10:I[97367,["$2"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$2"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$2"],"$16"]
+:HL["/_next/static/chunks/0arokdzc7cbv2.css","style"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"auth-layout","children":[["$","section",null,{"className":"auth-aside","children":[["$","$Le",null,{"className":"wordmark wordmark-light","href":"/","children":[["$","span",null,{"className":"wordmark-mark","children":"S"}],"SkillPilot"]}],["$","p",null,{"children":"Make room for a new skill."}],["$","h1",null,{"children":["Small steps.",["$","br",null,{}],"New directions."]}],["$","span",null,{"className":"aside-line"}],["$","p",null,{"className":"aside-small","children":"Create your free student account and begin at your own pace."}]]}],["$","section",null,{"className":"auth-main","children":["$","div",null,{"className":"auth-panel","children":[["$","p",null,{"className":"eyebrow","children":"Start learning"}],["$","h2",null,{"children":"Create an account"}],["$","p",null,{"className":"auth-description","children":"A little curiosity can take you a long way."}],["$","$Lf",null,{"mode":"register"}]]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0vwv_1j0z6kgd.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$8"}}]]
+9:[["children",{"s":"register","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0arokdzc7cbv2.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1kikialw6edkt.js","async":true}]],["$","html",null,{"className":"kJBK_q_variable o_K0dW_variable","lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"children":[["$","$L4",null,{}],["$","main",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"SkillPilot — Learn something new"}],["$","meta","1",{"name":"description","content":"Find a course, build a skill, and keep moving forward."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$8"}},"a":"$@19","u":"$@1a","b":"3iabY8kvqrRYg7ZS20YcE"}
+12:null
+8:300
+1a:true
+8:C
+19:0
+a:"$undefined"
+7:"$undefined"
+18:"$undefined"
+13:"$undefined"

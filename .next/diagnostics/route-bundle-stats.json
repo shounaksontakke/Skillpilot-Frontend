@@ -1,0 +1,118 @@
+[
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 473517,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1kikialw6edkt.js",
+      ".next/static/chunks/3kk-7_doc_0az.js",
+      ".next/static/chunks/1x6obpmlu1_c2.js",
+      ".next/static/chunks/2r4s4h5xul1n-.js",
+      ".next/static/chunks/2khxl0v1q4i6n.js",
+      ".next/static/chunks/2e268anpfvdoc.js",
+      ".next/static/chunks/turbopack-3-ry682tkyiqk.js"
+    ]
+  },
+  {
+    "route": "/courses/[id]",
+    "firstLoadUncompressedJsBytes": 472947,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1kikialw6edkt.js",
+      ".next/static/chunks/0rq47fy0_996s.js",
+      ".next/static/chunks/1x6obpmlu1_c2.js",
+      ".next/static/chunks/2r4s4h5xul1n-.js",
+      ".next/static/chunks/2khxl0v1q4i6n.js",
+      ".next/static/chunks/2e268anpfvdoc.js",
+      ".next/static/chunks/turbopack-3-ry682tkyiqk.js"
+    ]
+  },
+  {
+    "route": "/my-enrollments",
+    "firstLoadUncompressedJsBytes": 472575,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1kikialw6edkt.js",
+      ".next/static/chunks/225d_k6j5qmyf.js",
+      ".next/static/chunks/1x6obpmlu1_c2.js",
+      ".next/static/chunks/2r4s4h5xul1n-.js",
+      ".next/static/chunks/2khxl0v1q4i6n.js",
+      ".next/static/chunks/2e268anpfvdoc.js",
+      ".next/static/chunks/turbopack-3-ry682tkyiqk.js"
+    ]
+  },
+  {
+    "route": "/admin/courses",
+    "firstLoadUncompressedJsBytes": 472204,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1kikialw6edkt.js",
+      ".next/static/chunks/3yoggfh9jf7hb.js",
+      ".next/static/chunks/1x6obpmlu1_c2.js",
+      ".next/static/chunks/2r4s4h5xul1n-.js",
+      ".next/static/chunks/2khxl0v1q4i6n.js",
+      ".next/static/chunks/2e268anpfvdoc.js",
+      ".next/static/chunks/turbopack-3-ry682tkyiqk.js"
+    ]
+  },
+  {
+    "route": "/admin/courses/[id]/edit",
+    "firstLoadUncompressedJsBytes": 472157,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1kikialw6edkt.js",
+      ".next/static/chunks/0tfpcp02wyo2h.js",
+      ".next/static/chunks/1x6obpmlu1_c2.js",
+      ".next/static/chunks/2r4s4h5xul1n-.js",
+      ".next/static/chunks/2khxl0v1q4i6n.js",
+      ".next/static/chunks/2e268anpfvdoc.js",
+      ".next/static/chunks/turbopack-3-ry682tkyiqk.js"
+    ]
+  },
+  {
+    "route": "/login",
+    "firstLoadUncompressedJsBytes": 472050,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1kikialw6edkt.js",
+      ".next/static/chunks/3k1mk_k4bhdjx.js",
+      ".next/static/chunks/1x6obpmlu1_c2.js",
+      ".next/static/chunks/2r4s4h5xul1n-.js",
+      ".next/static/chunks/2khxl0v1q4i6n.js",
+      ".next/static/chunks/2e268anpfvdoc.js",
+      ".next/static/chunks/turbopack-3-ry682tkyiqk.js"
+    ]
+  },
+  {
+    "route": "/admin/courses/new",
+    "firstLoadUncompressedJsBytes": 471787,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1kikialw6edkt.js",
+      ".next/static/chunks/089j-h5rkd20v.js",
+      ".next/static/chunks/1x6obpmlu1_c2.js",
+      ".next/static/chunks/2r4s4h5xul1n-.js",
+      ".next/static/chunks/2khxl0v1q4i6n.js",
+      ".next/static/chunks/2e268anpfvdoc.js",
+      ".next/static/chunks/turbopack-3-ry682tkyiqk.js"
+    ]
+  },
+  {
+    "route": "/register",
+    "firstLoadUncompressedJsBytes": 470774,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1kikialw6edkt.js",
+      ".next/static/chunks/0vwv_1j0z6kgd.js",
+      ".next/static/chunks/1x6obpmlu1_c2.js",
+      ".next/static/chunks/2r4s4h5xul1n-.js",
+      ".next/static/chunks/2khxl0v1q4i6n.js",
+      ".next/static/chunks/2e268anpfvdoc.js",
+      ".next/static/chunks/turbopack-3-ry682tkyiqk.js"
+    ]
+  },
+  {
+    "route": "/_not-found",
+    "firstLoadUncompressedJsBytes": 466380,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1kikialw6edkt.js",
+      ".next/static/chunks/1x6obpmlu1_c2.js",
+      ".next/static/chunks/2r4s4h5xul1n-.js",
+      ".next/static/chunks/2khxl0v1q4i6n.js",
+      ".next/static/chunks/2e268anpfvdoc.js",
+      ".next/static/chunks/turbopack-3-ry682tkyiqk.js"
+    ]
+  }
+]

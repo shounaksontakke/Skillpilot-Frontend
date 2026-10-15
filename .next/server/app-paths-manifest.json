@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/courses/[id]/edit/page": "app/admin/courses/[id]/edit/page.js",
+  "/admin/courses/new/page": "app/admin/courses/new/page.js",
+  "/admin/courses/page": "app/admin/courses/page.js",
+  "/courses/[id]/page": "app/courses/[id]/page.js",
+  "/login/page": "app/login/page.js",
+  "/my-enrollments/page": "app/my-enrollments/page.js",
+  "/page": "app/page.js",
+  "/register/page": "app/register/page.js"
+}

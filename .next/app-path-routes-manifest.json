@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/courses/[id]/edit/page": "/admin/courses/[id]/edit",
+  "/admin/courses/new/page": "/admin/courses/new",
+  "/admin/courses/page": "/admin/courses",
+  "/courses/[id]/page": "/courses/[id]",
+  "/login/page": "/login",
+  "/my-enrollments/page": "/my-enrollments",
+  "/page": "/",
+  "/register/page": "/register"
+}
